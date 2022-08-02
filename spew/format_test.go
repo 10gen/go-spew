@@ -72,7 +72,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/10gen/mongosync/go-spew/spew"
+	"github.com/10gen/go-spew/spew"
 )
 
 // formatterTest is used to describe a test to be performed against NewFormatter.

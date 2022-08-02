@@ -23,7 +23,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/10gen/mongosync/go-spew/spew"
+	"github.com/10gen/go-spew/spew"
 )
 
 // spewFunc is used to identify which public function of the spew package or

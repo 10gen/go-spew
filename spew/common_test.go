@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/10gen/mongosync/go-spew/spew"
+	"github.com/10gen/go-spew/spew"
 )
 
 // custom type to test Stinger interface on non-pointer receiver.
